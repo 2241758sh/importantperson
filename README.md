@@ -1,2 +1,2 @@
 # importantperson
-this will open the camera and shoe the user 
+This will open the camera and show the user 
